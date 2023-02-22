@@ -1,2 +1,2 @@
 # ZKTeco_HTML
-Was made to ensure the Concept clarity in basic questions
+"HTML : Elements, Attributes, Image, Styles, Inline Block, Block elements, id & attributes."
